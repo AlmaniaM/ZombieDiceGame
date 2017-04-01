@@ -1,0 +1,14 @@
+Welcome to Zombie Dice!!!
+
+The object of the game is to roll 13 brains to win. 
+If you roll 3 shotguns then you loose the game.
+The game comes with 13 dice, there are 6 green dice, 4 yellow dice, and 3 red dice. 
+To play the game, you will need 2 people to start.
+Now the first Player has to put all 13 dice in the cup and shake
+it. When done, take 3 dice from the cup and roll them on to the table. 
+If you have a brain, then take it and set it on the brain panel, which is on the left side.
+If you have a shotgun blast, then take it and set it on the shotgun panel on the right side.
+If you have a footprint, then you leave it on the table and will roll it again.  
+After each roll a screen will popup and display your brains, and shotgun score. 
+You can chose to either keep going or stop and score whatever brains you have. 
+At the end of the game whoever has the most brains will be the winner.

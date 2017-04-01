@@ -1,0 +1,78 @@
+/**
+ * File name: styles.css
+ *
+ * Programmer: Alexander Molodyh
+ * Chemeketa Community College
+ * Class CIS234J
+ * Created: May 20, 2015 9:39:37 PM
+ * Assignment: CIS234J Final Project
+ */
+
+/*
+ * This css file styles the Nodes, Text Nodes, and backgrounds in the
+ * Zombie Dice game. 
+ */
+
+/*
+ * This sets the background image in the main game screen
+ */
+.root
+{
+    -fx-background-image: url("images/cover_lg.gif");
+}
+
+/*
+ * This sets the background in the screen that pops up 
+ * after each turn.
+ */
+#root-group
+{
+	-fx-background-image: url("images/choosePlayBack.gif");
+}
+
+/*
+ * This styles the text in the "Next Turn" screen.
+ */
+.text
+{
+	-fx-font-family: "Sans Serif", Georgia, Serif;
+	-fx-font-size: 35px;
+	-fx-font-fill: #f01c1c;
+	-fx-text-shadow: 2px, 2px, 5px, red;
+	-fx-effect: dropshadow( three-pass-box , white , 8 , 0.4 , 0 , 0 );
+}
+
+/*
+ * This sets the styles for the shotgun text in 
+ * the "Next Turn" screen.
+ */
+#text2
+{
+	-fx-font-family: "Sans Serif", Georgia, Serif;
+	-fx-font-size: 35px;
+	-fx-font-fill: #f01c1c;
+	-fx-text-shadow: 2px, 2px, 5px, red;
+	-fx-effect: dropshadow( three-pass-box , white , 8 , 0.4 , 0 , 0 );
+}
+
+/*
+ * This sets the styles for the brain text in 
+ * the "Next Turn" screen.
+ */
+#text
+{
+	-fx-font-family: "Sans Serif", Georgia, Serif;
+	-fx-font-size: 35px;
+	-fx-text-fill: #f01c1c;
+	-fx-text-shadow: 2px, 2px, 5px, red;
+	-fx-effect: dropshadow( three-pass-box , white , 8 , 0.4 , 0 , 0 );
+}
+
+/*
+ * This sets the Start button in the main game.
+ */
+#cup-button
+{
+	-fx-background-image: url("images/zombieStart.gif");
+}
+

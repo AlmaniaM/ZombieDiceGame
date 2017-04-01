@@ -1,0 +1,37 @@
+/**
+ * File name: intro.css
+ *
+ * Programmer: Alexander Molodyh
+ * Chemeketa Community College
+ * Class CIS234J
+ * Created: May 20, 2015 9:39:37 PM
+ * Assignment: CIS234J Final Project
+ */
+
+/*
+ * This css file styles the background and the text in 
+ * the introduction screen.
+ */
+
+/*
+ * This sets the background color for the introduction
+ * screen.
+ */
+#pane
+{
+	-fx-background-color: #d0c68d;
+}
+
+/*
+ * This sets the style for the game rules text.
+ */
+#text-intro-file
+{
+	-fx-background-image: url("images/zombieOkButton.gif");
+	-fx-background-radius: 20;
+	-fx-font-family: "Helvetica";
+    -fx-font-size: 21px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+    -fx-text-shadow: 2px, 2px, 5px, red;
+}
